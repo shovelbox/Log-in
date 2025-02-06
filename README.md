@@ -5,4 +5,4 @@ winui3 login animation
 
 
 
-<img src="C:\Users\DKsystems\Videos\화면 녹화\화면 녹화 중 2025-02-06 114219.mp4">
+
